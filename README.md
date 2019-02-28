@@ -1,0 +1,2 @@
+# finman
+Finance Management
